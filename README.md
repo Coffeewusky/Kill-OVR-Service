@@ -3,3 +3,4 @@ This simple script closes the OVR services using CMD that is running in the back
 
 
 *Use administrator for the script to work*
+
