@@ -4,4 +4,4 @@ This simple script closes the OVR services using CMD that is running in the back
 
 *Use administrator for the script to work*
 
-Issue: Using this script will reset your (OculusDebugTool.exe) settings if you have set any.
+Known Issue: Using this script will reset your (OculusDebugTool.exe) settings if you have set any.
