@@ -1,5 +1,5 @@
 # Kill-OVR-Service
-This simple script closes the OVR service, that is running in the background, after you closed your Oculus application, Since there is no option in the Oculus application to prevent running in the background.
+This simple script addresses the lack of an option within the Oculus application to prevent background processes by closing the OVR service after the application is closed.
 
 
 *Use administrator for the script to work*
