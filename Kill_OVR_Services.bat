@@ -1,5 +1,4 @@
 @echo off
-REM Improved script to control the OVRService
 
 REM Check if running as administrator
 net session >nul 2>&1
